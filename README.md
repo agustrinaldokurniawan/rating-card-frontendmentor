@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://rating-card-frontendmentor-m1sxs04rq-agustrinaldokurniawan.vercel.app/m)
+- Live Site URL: [Add live site URL here](https://rating-card-frontendmentor-m1sxs04rq-agustrinaldokurniawan.vercel.app)
 
 ## My process
 
