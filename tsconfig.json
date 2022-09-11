@@ -9,5 +9,5 @@
     "moduleResolution": "node",
     "sourceMap": true
   },
-  "include": ["src/svg.d.ts"]
+  "include": ["src", "src/svg.d.ts"]
 }
